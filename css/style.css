@@ -1,0 +1,51 @@
+body{
+    background: url(https://i.pinimg.com/originals/27/b4/e3/27b4e3bd08a214b3d5201bfe3360b407.jpg) no-repeat center fixed ;
+    background-size: cover;
+}
+
+img{
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+    border: solid;
+    border-radius: 1000px;
+    background-color: antiquewhite;
+
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color: mintcream;
+    text-align: center;
+}
+
+h2{
+    border: solid  ;
+    border-radius: 1000px;
+    background: aquamarine;
+    width: 200px;
+    text-align: center;
+}
+
+.mama{
+    width: 100px;
+    display: block;
+    
+}
+
+button{
+     border-radius: 1000px;
+     background: orange;
+     border: dou;
+}
+
+a{
+    color: blanchedalmond;
+    font-family: monospace;
+}
